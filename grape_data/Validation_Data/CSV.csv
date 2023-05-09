@@ -1,0 +1,495 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+Healthy,308,146,34,28,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,320,110,35,36,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,280,108,37,21,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,291,126,30,31,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,275,128,20,32,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,344,100,33,25,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,336,156,33,31,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,354,139,44,28,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,385,145,34,31,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,353,124,34,15,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,268,170,25,20,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,268,191,33,23,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,305,180,37,39,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,343,191,31,44,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,291,162,19,26,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,367,169,29,34,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,387,178,34,34,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,387,217,43,34,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,284,241,28,27,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,308,218,34,35,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,341,236,34,27,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,371,237,26,34,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,388,251,30,29,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,368,289,49,38,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,320,379,34,44,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,352,385,26,20,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,353,351,42,38,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,309,376,18,18,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,337,336,22,36,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,319,348,20,33,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,310,334,15,21,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,289,319,25,21,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,381,322,17,31,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,279,270,26,34,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,290,286,33,35,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,316,311,31,37,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,334,279,27,38,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,353,315,28,34,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,306,249,32,42,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,352,264,35,28,White-Green-Grapes-SS-1102331153.jpg.webp,700,491
+Healthy,528,428,92,88,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,715,479,95,95,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,653,496,61,69,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,569,572,85,56,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,513,537,69,68,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,496,504,59,42,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,493,436,41,61,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,575,528,45,40,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,609,473,42,59,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,708,421,65,57,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,644,387,68,69,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,561,319,86,91,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,880,371,93,92,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,788,346,78,88,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,689,346,59,67,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,623,279,57,57,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,568,240,75,75,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,638,305,64,81,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,626,202,85,75,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,702,292,88,72,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,747,209,81,88,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,705,240,72,64,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,815,278,109,98,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,929,284,76,91,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,999,299,108,99,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,1097,285,65,78,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,1036,146,105,91,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,820,200,100,81,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,585,110,78,81,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,549,176,74,58,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,637,160,57,40,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,663,135,71,54,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,665,54,96,81,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,776,105,85,86,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,735,101,61,89,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,709,0,99,49,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,753,6,102,95,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,893,0,92,78,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,954,25,95,82,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,844,43,95,99,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,869,141,81,67,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,946,88,96,86,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,1039,27,64,58,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,1124,47,71,69,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,1144,134,56,67,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,1040,87,68,59,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,1128,189,72,83,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,1040,224,85,75,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,954,176,88,103,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,1105,310,92,95,grapes-1200x628-facebook-1200x628.jpg,1200,628
+Healthy,168,119,159,110,green-grapes-bunch.jpg,1200,879
+Healthy,334,78,117,125,green-grapes-bunch.jpg,1200,879
+Healthy,298,63,96,78,green-grapes-bunch.jpg,1200,879
+Healthy,612,123,120,120,green-grapes-bunch.jpg,1200,879
+Healthy,725,197,107,107,green-grapes-bunch.jpg,1200,879
+Healthy,656,554,106,112,green-grapes-bunch.jpg,1200,879
+Healthy,566,483,109,145,green-grapes-bunch.jpg,1200,879
+Healthy,859,691,132,123,green-grapes-bunch.jpg,1200,879
+Healthy,1083,551,97,102,green-grapes-bunch.jpg,1200,879
+Healthy,267,432,119,120,green-grapes-bunch.jpg,1200,879
+Healthy,227,336,114,112,green-grapes-bunch.jpg,1200,879
+Healthy,154,387,125,115,green-grapes-bunch.jpg,1200,879
+Healthy,370,452,112,112,green-grapes-bunch.jpg,1200,879
+Healthy,340,331,122,127,green-grapes-bunch.jpg,1200,879
+Healthy,461,325,110,110,green-grapes-bunch.jpg,1200,879
+Healthy,540,377,93,128,green-grapes-bunch.jpg,1200,879
+Healthy,348,203,128,146,green-grapes-bunch.jpg,1200,879
+Healthy,240,218,106,122,green-grapes-bunch.jpg,1200,879
+Healthy,110,211,68,99,green-grapes-bunch.jpg,1200,879
+Healthy,87,315,81,107,green-grapes-bunch.jpg,1200,879
+Healthy,162,226,76,71,green-grapes-bunch.jpg,1200,879
+Healthy,162,292,80,97,green-grapes-bunch.jpg,1200,879
+Healthy,712,367,115,94,green-grapes-bunch.jpg,1200,879
+Healthy,711,491,119,112,green-grapes-bunch.jpg,1200,879
+Healthy,628,432,138,120,green-grapes-bunch.jpg,1200,879
+Healthy,608,331,119,102,green-grapes-bunch.jpg,1200,879
+Healthy,535,239,125,114,green-grapes-bunch.jpg,1200,879
+Healthy,644,240,122,119,green-grapes-bunch.jpg,1200,879
+Healthy,477,164,130,83,green-grapes-bunch.jpg,1200,879
+Healthy,422,195,123,120,green-grapes-bunch.jpg,1200,879
+Healthy,530,725,57,43,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,600,727,47,55,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,527,637,62,43,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,547,677,37,45,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,627,665,40,37,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,592,675,45,47,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,597,619,53,37,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,514,561,67,40,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,532,597,47,35,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,603,547,53,35,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,610,586,45,43,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,571,577,31,42,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,496,592,43,40,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,481,533,60,48,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,561,523,53,47,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,513,458,50,45,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,599,500,44,38,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,550,481,53,42,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,481,504,71,41,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,602,419,42,50,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,649,419,60,51,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,605,460,58,42,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,635,210,37,37,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,644,234,72,32,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,634,286,73,37,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,579,191,41,40,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,513,279,43,64,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,536,232,40,48,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,521,214,57,31,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,536,177,43,35,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,469,288,44,45,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,576,299,41,33,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,586,264,32,30,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,618,258,53,28,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,517,368,34,38,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,465,352,54,40,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,487,417,43,49,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,542,395,45,47,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,635,332,61,43,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,646,376,53,42,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,568,335,43,49,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,598,344,44,51,vineyard-green-grapes-ashasathees-photography.jpg,900,900
+Healthy,246,62,89,50,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,172,100,69,65,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,136,152,79,67,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,178,232,59,76,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,154,220,50,65,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,196,166,63,71,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,249,235,51,65,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,298,240,59,75,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,364,242,56,66,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,406,222,63,61,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,323,192,61,81,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,260,178,65,63,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,237,104,78,73,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,358,183,79,59,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,306,134,71,59,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,362,140,65,43,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,303,108,59,32,360_F_257644572_U7yQOYMsd7WSTEkGQis2ka9AXwb0UmHo.jpg,532,360
+Healthy,29,239,85,53,resize.jpg,512,512
+Healthy,1,271,53,56,resize.jpg,512,512
+Healthy,8,321,44,48,resize.jpg,512,512
+Healthy,95,314,61,87,resize.jpg,512,512
+Healthy,44,293,56,72,resize.jpg,512,512
+Healthy,157,325,31,50,resize.jpg,512,512
+Healthy,191,294,67,72,resize.jpg,512,512
+Healthy,138,257,67,83,resize.jpg,512,512
+Healthy,89,245,82,70,resize.jpg,512,512
+Healthy,74,198,84,47,resize.jpg,512,512
+Healthy,114,178,64,22,resize.jpg,512,512
+Healthy,168,155,74,31,resize.jpg,512,512
+Healthy,148,195,72,50,resize.jpg,512,512
+Healthy,196,177,71,53,resize.jpg,512,512
+Healthy,205,227,79,57,resize.jpg,512,512
+Healthy,236,274,63,100,resize.jpg,512,512
+Healthy,282,275,44,87,resize.jpg,512,512
+Healthy,322,256,46,94,resize.jpg,512,512
+Healthy,400,262,62,100,resize.jpg,512,512
+Healthy,368,272,34,92,resize.jpg,512,512
+Healthy,432,224,76,51,resize.jpg,512,512
+Healthy,440,265,41,67,resize.jpg,512,512
+Healthy,294,103,67,63,resize.jpg,512,512
+Healthy,359,124,49,64,resize.jpg,512,512
+Healthy,383,164,51,56,resize.jpg,512,512
+Healthy,242,128,66,43,resize.jpg,512,512
+Healthy,260,160,58,59,resize.jpg,512,512
+Healthy,278,211,54,71,resize.jpg,512,512
+Healthy,314,165,51,44,resize.jpg,512,512
+Healthy,333,203,47,45,resize.jpg,512,512
+Healthy,366,221,70,56,resize.jpg,512,512
+Healthy,131,293,88,94,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Healthy,294,357,80,80,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Healthy,224,373,72,68,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Healthy,111,331,82,80,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,85,413,82,76,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,99,498,68,74,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,169,421,80,72,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,240,277,58,76,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,103,598,88,80,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,258,526,68,88,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,198,546,60,80,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,125,674,96,88,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,159,730,74,60,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,234,714,80,68,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,117,835,86,74,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,125,901,74,50,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,115,987,86,86,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,149,1060,62,68,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,218,1112,72,66,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,216,1037,80,74,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,242,965,72,62,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,266,1029,56,62,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,202,861,64,74,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,244,907,58,52,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,258,895,68,74,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,278,843,42,42,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,290,773,64,68,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,240,626,92,84,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,278,608,64,44,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,426,556,80,82,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,382,636,68,62,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,462,670,26,40,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,384,891,58,74,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,400,1013,46,62,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,489,979,50,72,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,472,1045,30,44,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,424,1108,50,52,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,384,1078,40,50,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,366,1005,36,50,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,372,957,46,30,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,342,907,36,56,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,332,861,60,46,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Healthy,495,851,44,54,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Healthy,422,837,66,56,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,390,783,58,68,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,316,746,78,78,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,513,807,40,40,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,436,885,52,38,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,314,698,50,58,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,448,785,42,46,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,487,797,24,50,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,515,698,56,64,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,551,658,44,64,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,454,710,46,40,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,525,652,34,42,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,466,626,66,50,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,452,496,50,54,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,452,464,62,66,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,394,421,66,52,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,354,381,56,64,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,312,484,78,78,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,386,470,60,56,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,328,556,68,78,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,292,433,50,36,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,192,269,52,52,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,141,783,72,58,16597029_web1_BCR-Bob-Morris-redgrapes-JUN23-22.webp,900,1200
+Diseased ,161,419,109,109,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,98,428,74,106,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,71,447,39,91,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,195,782,83,102,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,338,867,57,49,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,278,819,59,79,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,401,787,39,45,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,350,790,49,51,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,302,735,60,59,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,252,759,43,37,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,211,707,46,39,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,178,724,52,46,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,372,655,102,91,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,305,673,60,57,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,181,668,40,43,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,244,655,54,46,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,335,574,51,66,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,359,615,52,43,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,187,633,37,34,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,201,608,40,45,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,225,565,105,91,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,128,556,45,42,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,142,585,45,43,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,178,548,37,45,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,207,533,43,29,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,318,482,65,63,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,289,502,52,57,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,270,451,52,51,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,375,385,59,74,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,404,394,97,103,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,225,339,116,108,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,185,323,51,49,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,76,337,69,68,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,138,385,46,39,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,464,31,99,103,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,473,163,68,117,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,520,166,62,68,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,426,183,57,69,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,375,243,65,57,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,315,266,57,43,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,173,239,68,80,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,101,176,103,89,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,202,171,94,91,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,124,79,103,99,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,113,279,52,42,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,79,265,46,68,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,5,299,94,88,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,42,165,59,68,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,34,237,42,55,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,19,196,29,40,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,290,311,85,59,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,356,316,48,51,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,302,129,114,92,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,352,217,57,29,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,264,66,66,65,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,396,2,46,60,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,307,0,94,83,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,196,0,89,37,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,84,2,89,91,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,0,0,84,60,Guignardia_bidwellii_04.jpg,638,921
+Diseased ,0,62,37,45,Guignardia_bidwellii_04.jpg,638,921
+Healthy,255,81,82,89,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,259,0,73,61,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,215,50,63,63,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,142,137,42,57,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,180,142,55,52,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,146,99,79,37,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,175,195,74,54,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,251,213,70,66,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,240,166,61,39,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,300,194,55,57,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,267,275,64,53,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,292,313,72,43,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,164,46,57,51,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,186,1,67,50,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,106,288,46,65,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,123,391,49,56,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,135,347,38,40,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,110,217,67,60,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,144,278,41,57,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,182,508,58,50,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,235,474,78,74,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,174,435,69,70,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,303,444,64,68,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,239,387,86,83,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,169,356,79,74,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,176,248,77,53,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,167,303,72,52,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,301,359,54,50,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,241,332,54,51,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,239,300,28,35,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,99,185,39,33,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,112,144,34,44,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,223,115,30,48,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,90,44,47,40,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,74,109,46,59,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,111,78,38,65,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,400,132,35,45,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,346,113,52,72,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,44,125,28,41,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,85,197,31,47,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,67,160,25,23,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,51,94,25,37,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,65,74,51,39,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,361,86,45,39,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Healthy,336,80,24,41,Ripe_Rot_on_Chardonnay.jpeg,470,600
+Diseased ,215,233,96,91,phomopsis_1.jpg,600,800
+Diseased ,318,214,71,67,phomopsis_1.jpg,600,800
+Diseased ,299,278,51,71,phomopsis_1.jpg,600,800
+Diseased ,298,349,43,48,phomopsis_1.jpg,600,800
+Diseased ,330,388,60,67,phomopsis_1.jpg,600,800
+Diseased ,216,320,82,84,phomopsis_1.jpg,600,800
+Diseased ,243,660,51,66,phomopsis_1.jpg,600,800
+Diseased ,287,658,67,70,phomopsis_1.jpg,600,800
+Diseased ,282,724,59,44,phomopsis_1.jpg,600,800
+Diseased ,350,704,76,55,phomopsis_1.jpg,600,800
+Diseased ,335,744,33,44,phomopsis_1.jpg,600,800
+Diseased ,354,581,71,70,phomopsis_1.jpg,600,800
+Diseased ,278,543,74,71,phomopsis_1.jpg,600,800
+Diseased ,241,586,36,37,phomopsis_1.jpg,600,800
+Diseased ,223,631,36,45,phomopsis_1.jpg,600,800
+Diseased ,252,611,37,44,phomopsis_1.jpg,600,800
+Diseased ,290,459,94,86,phomopsis_1.jpg,600,800
+Diseased ,204,455,83,87,phomopsis_1.jpg,600,800
+Diseased ,199,527,75,63,phomopsis_1.jpg,600,800
+Diseased ,152,445,68,83,phomopsis_1.jpg,600,800
+Diseased ,373,526,44,58,phomopsis_1.jpg,600,800
+Diseased ,381,466,43,51,phomopsis_1.jpg,600,800
+Diseased ,251,405,74,64,phomopsis_1.jpg,600,800
+Diseased ,377,387,86,86,phomopsis_1.jpg,600,800
+Diseased ,348,310,80,86,phomopsis_1.jpg,600,800
+Diseased ,189,399,55,55,phomopsis_1.jpg,600,800
+Diseased ,164,344,56,64,phomopsis_1.jpg,600,800
+Diseased ,399,297,75,56,phomopsis_1.jpg,600,800
+Diseased ,346,284,49,32,phomopsis_1.jpg,600,800
+Diseased ,101,264,63,94,phomopsis_1.jpg,600,800
+Diseased ,164,270,59,75,phomopsis_1.jpg,600,800
+Diseased ,154,195,76,72,phomopsis_1.jpg,600,800
+Diseased ,104,158,79,68,phomopsis_1.jpg,600,800
+Diseased ,387,209,83,87,phomopsis_1.jpg,600,800
+Diseased ,459,231,63,90,phomopsis_1.jpg,600,800
+Diseased ,136,227,28,40,phomopsis_1.jpg,600,800
+Diseased ,480,175,68,76,phomopsis_1.jpg,600,800
+Diseased ,423,131,82,86,phomopsis_1.jpg,600,800
+Diseased ,343,155,79,67,phomopsis_1.jpg,600,800
+Diseased ,355,120,60,35,phomopsis_1.jpg,600,800
+Diseased ,283,153,58,79,phomopsis_1.jpg,600,800
+Diseased ,196,122,83,83,phomopsis_1.jpg,600,800
+Diseased ,237,207,64,24,phomopsis_1.jpg,600,800
+Diseased ,282,110,70,47,phomopsis_1.jpg,600,800
+Diseased ,45,32,83,84,phomopsis_1.jpg,600,800
+Diseased ,243,32,86,99,phomopsis_1.jpg,600,800
+Diseased ,312,29,56,82,phomopsis_1.jpg,600,800
+Diseased ,152,63,80,79,phomopsis_1.jpg,600,800
+Diseased ,23,98,84,83,phomopsis_1.jpg,600,800
+Diseased ,106,98,43,62,phomopsis_1.jpg,600,800
+Diseased ,100,0,88,67,phomopsis_1.jpg,600,800
+Diseased ,187,8,51,54,phomopsis_1.jpg,600,800
+Diseased ,27,297,182,187,phomopsis_2.jpg,600,800
+Diseased ,53,460,162,131,phomopsis_2.jpg,600,800
+Diseased ,3,621,119,124,phomopsis_2.jpg,600,800
+Diseased ,58,664,148,132,phomopsis_2.jpg,600,800
+Diseased ,212,668,154,131,phomopsis_2.jpg,600,800
+Diseased ,359,540,146,154,phomopsis_2.jpg,600,800
+Diseased ,356,728,80,72,phomopsis_2.jpg,600,800
+Diseased ,362,672,80,58,phomopsis_2.jpg,600,800
+Diseased ,271,565,107,120,phomopsis_2.jpg,600,800
+Diseased ,140,586,127,107,phomopsis_2.jpg,600,800
+Diseased ,0,482,69,103,phomopsis_2.jpg,600,800
+Diseased ,46,582,83,40,phomopsis_2.jpg,600,800
+Diseased ,201,492,91,96,phomopsis_2.jpg,600,800
+Diseased ,296,423,144,161,phomopsis_2.jpg,600,800
+Diseased ,200,376,110,119,phomopsis_2.jpg,600,800
+Diseased ,241,245,123,135,phomopsis_2.jpg,600,800
+Diseased ,401,368,130,94,phomopsis_2.jpg,600,800
+Diseased ,303,363,98,71,phomopsis_2.jpg,600,800
+Diseased ,93,231,122,114,phomopsis_2.jpg,600,800
+Diseased ,0,215,96,144,phomopsis_2.jpg,600,800
+Diseased ,171,130,116,142,phomopsis_2.jpg,600,800
+Diseased ,0,80,172,175,phomopsis_2.jpg,600,800
+Diseased ,319,52,115,100,phomopsis_2.jpg,600,800
+Diseased ,204,41,120,107,phomopsis_2.jpg,600,800
+Diseased ,290,123,144,144,phomopsis_2.jpg,600,800
+Diseased ,362,222,167,174,phomopsis_2.jpg,600,800
+Diseased ,506,261,94,130,phomopsis_2.jpg,600,800
+Diseased ,433,68,154,167,phomopsis_2.jpg,600,800
+Diseased ,438,35,138,60,phomopsis_2.jpg,600,800
+Diseased ,541,144,59,112,phomopsis_2.jpg,600,800
+Diseased ,0,0,84,104,phomopsis_2.jpg,600,800
+Diseased ,100,1,162,79,phomopsis_2.jpg,600,800
+Diseased ,257,0,92,39,phomopsis_2.jpg,600,800
+Diseased ,365,151,83,110,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,422,274,82,99,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,572,325,117,115,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,432,369,103,112,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,504,379,89,103,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,440,481,125,132,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,520,593,137,116,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,650,579,136,130,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,568,473,125,130,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,660,376,150,139,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,733,584,100,102,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,708,488,132,95,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,798,407,75,89,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,831,273,105,105,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,777,342,71,71,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,501,225,102,115,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,595,197,132,123,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,680,265,123,105,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,442,129,139,136,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,697,88,139,158,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,569,54,132,140,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,411,0,164,112,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,776,190,112,100,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,831,66,146,133,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,759,3,139,109,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,671,0,127,49,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
+Diseased ,561,0,108,61,hgic_fruit_disease_BlackRot_5511718_1200.jpg,1200,713
